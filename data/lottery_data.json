@@ -1,21 +1,40 @@
 {
   "chats": {
     "2000000006": {
-      "active": true,
+      "active": false,
       "tickets": {
-        "266762553": [
-          233503,
-          510897,
-          174473,
-          997701,
-          186594
+        "261664257": [
+          154947,
+          619709,
+          198194,
+          881972,
+          309882
         ]
       },
       "prize_pool": 0,
       "admin": 504532020,
       "rp_mode": false,
-      "ticket_price": 100,
-      "created_at": "2025-07-28T18:32:33.411551"
+      "winner_count": 3,
+      "created_at": "2025-07-29T12:18:53.845240",
+      "completed_at": "2025-07-29T12:19:15.900182",
+      "winners": [
+        [
+          1,
+          154947,
+          261664257
+        ]
+      ]
+    }
+  },
+  "global_settings": {
+    "default_rp_mode": false,
+    "default_ticket_price": 100,
+    "default_winner_count": 3
+  },
+  "chat_settings": {
+    "2000000006": {
+      "rp_mode": false,
+      "winner_count": 3
     }
   }
 }
